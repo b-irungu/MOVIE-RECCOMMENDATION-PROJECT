@@ -1,3 +1,6 @@
+![image](https://github.com/b-irungu/PHASE-4/assets/122228492/3287a47b-3eb6-4730-a7d5-62e7e04491f9)
+
+
 **BUILDING A MOVIE RECOMMENDATION SYSTEM USING COLLABORATIVE FILTERING**
 
 This repository contains the following
