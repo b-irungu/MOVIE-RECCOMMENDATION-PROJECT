@@ -27,7 +27,7 @@ The MovieLens dataset provides a rich and reliable source of movie ratings and a
 
 COLLABORATIVE FILTERING
 
-collaborative filtering was used in the Reccomdation system and it involved the following steps
+collaborative filtering was used in the Reccommendation system and it involved the following steps
 1. Converting the DataFrame into a Surprise Dataset
 2. Splitting the data into training and testing sets
 3. Hypertunning Dataset to get the best parameters by Performing a gridsearch with SVD
@@ -35,7 +35,7 @@ collaborative filtering was used in the Reccomdation system and it involved the 
 5. Cross-validating with KNNBaseline
 6. Model evaluation using RSME and MAE
 7. Making predictions
-8. Testing the reccomendation systems
+8. Testing the recommendation systems
 
 **COLLABORATIVE FILTERING RESULTS**
 * The KNNBaseline algorithm indicated a lower RMSE of 0.8774070745386995, which suggests better prediction accuracy compared to KNNBasic.
